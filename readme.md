@@ -2,13 +2,13 @@
 
 **About me**
 
-- Work at ProPTIT: https://www.facebook.com/clubproptit
+- Work at [ProPTIT](https://www.facebook.com/clubproptit)
 
-- Facebook: https://www.facebook.com/Lazygarde
+- Facebook: [Lazygarde](https://www.facebook.com/Lazygarde)
 
-- Codeforces: https://codeforces.com/profile/ProPTIT_Byron
+- Codeforces: [ProPTIT_Byron](https://codeforces.com/profile/ProPTIT_Byron)
 
-- ICPC Contestant: https://icpc.global/ICPCID/9KTSCCGJ582N
+- [ICPC Contestant](https://icpc.global/ICPCID/9KTSCCGJ582N)
 
 #### Top Repositories
 
