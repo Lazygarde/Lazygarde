@@ -2,6 +2,8 @@
 
 **About me**
 
+- Work at ProPTIT: https://www.facebook.com/clubproptit
+
 - Facebook: https://www.facebook.com/Lazygarde
 
 - Codeforces: https://codeforces.com/profile/ProPTIT_Byron
