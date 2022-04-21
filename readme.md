@@ -12,6 +12,8 @@
 
 - Codeforces: [ProPTIT_Byron](https://codeforces.com/profile/ProPTIT_Byron)
 
+- SPOJ PTIT: [angelstarhnl](https://www.spoj.com/PTIT/users/angelstarhnl/)
+
 - [ICPC Contestant](https://icpc.global/ICPCID/9KTSCCGJ582N)
 
 ---
