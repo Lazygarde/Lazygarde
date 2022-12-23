@@ -11,7 +11,7 @@
 
 - Instagram: [Lazygarde](https://www.instagram.com/lazygarde/)
 
-- Codeforces: [ProPTIT_Byron](https://codeforces.com/profile/ProPTIT_Byron)
+- Codeforces: [Lazygarde](https://codeforces.com/profile/Lazygarde)
 
 - SPOJ PTIT: [Lazygarde](https://www.spoj.com/PTIT/users/angelstarhnl/)
 
