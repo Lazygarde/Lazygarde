@@ -21,13 +21,13 @@
 
 #### Top Repositories
 
-<a href="https://github.com/Lazygarde/Data_Structures_and_Algorithms_Code_PTIT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lazygarde&theme=tokyonight&border_color=B57EDC&repo=Data_Structures_and_Algorithms_Code_PTIT" />
+<a href="https://github.com/Lazygarde/SPOJ_Ranking">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lazygarde&theme=tokyonight&border_color=B57EDC&repo=SPOJ_Ranking" />
 </a>
 
 
-<a href="https://github.com/Lazygarde/CPP_Code_PTIT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lazygarde&theme=tokyonight&border_color=B57EDC&repo=CPP_Code_PTIT" />
+<a href="https://github.com/Lazygarde/Python_Code_PTIT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lazygarde&theme=tokyonight&border_color=B57EDC&repo=Python_Code_PTIT" />
 </a>
 
 ---
